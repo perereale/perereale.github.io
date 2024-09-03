@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://perereale.github.io/sitemap.html.gz
+Sitemap: https://perereale.github.io/app/sitemap.html.gz
+Sitemap: https://perereale.github.io/assets/sitemap.html.gz
+Sitemap: https://perereale.github.io/css/sitemap.html.gz
+Sitemap: https://perereale.github.io/includes/sitemap.html.gz
+Sitemap: https://perereale.github.io/item/sitemap.html.gz
+Sitemap: https://perereale.github.io/src/sitemap.html.gz
